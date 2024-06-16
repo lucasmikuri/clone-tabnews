@@ -1,8 +1,9 @@
 function Home() {
   return (
-    <h1>
-    <div>Sou ti aprendiz</div>
-    </h1>
+    <main>
+      <h1>saudade da minha ex...</h1>
+      <div>periencia</div>
+    </main>
   );
 }
 
