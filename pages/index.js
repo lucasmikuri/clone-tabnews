@@ -1,8 +1,8 @@
 function Home() {
   return (
     <main>
-      <h1>saudade da minha ex...</h1>
-      <div>periencia</div>
+      <h1>Lucas Mikuri...</h1>
+      <div>Apaixonado por conhecimento</div>
     </main>
   );
 }
