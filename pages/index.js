@@ -3,8 +3,9 @@ function Home() {
     <div>
       Se você me ama, manda uma declaração pelo whats
       <a href="https://wa.me/5565999328503" target="_blank">
-        <br></br>Abrir e me mandar
+        <br></br>Abrir e me mandar...
       </a>
+      Se sorriu é porque me ama! 😉
     </div>
   );
 }
